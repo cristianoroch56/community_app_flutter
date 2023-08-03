@@ -1,0 +1,155 @@
+class Tkey {
+  static String get appName => "CommunityApp";
+  static String get welcomeTo => "Welcome_to";
+  static String get language => "Language";
+  static String get pleaseChooseLanguage => "Please_Choose_Language";
+  static String get selectLanguage => "Select_Language";
+  static String get signInWithCredentials =>
+      "Sign_in_with_your_credentials_below.";
+  static String get enterMobileNumber => "Enter_mobile_number";
+  static String get enterMobileNumberToResetPassword =>
+      "Enter_mobile_number_to_reset_password";
+  static String get enterOTPSendTo => "Enter_OTP_sent_to";
+  static String get enterNewPassword => "Enter_a_new_password";
+  static String get sendOtp => "Send_OTP";
+  static String get resendOtp => "Resend_OTP";
+  static String get requestOtpAgainIn => "Request_OTP_again_in ";
+  static String get forgetPasswordOtpSent => "Forget_password_otp_is_sent!";
+  static String get login => "Login";
+  static String get register => "Register";
+  static String get firstName => "Enter_first_name";
+  static String get lastName => "Enter_last_name";
+  static String get phoneNumber => "Enter_phone_number";
+  static String get enterPassword => "Enter_Password";
+  static String get confirmPassword => "Confirm_Password";
+  static String get forgotPassword => "Forgot_Password";
+  static String get report => "Report";
+  static String get reported => "Reported";
+  static String get areYouSureYouWantToReport =>
+      "Are_you_sure_you_want_to_report_this_news?";
+  static String get aboutEvent => "About_Event";
+  static String get location => "Location";
+  static String get loggedInSuccessfully => "Logged_In_Successfully!";
+  static String get activateYourAccout =>
+      "Please_Activate_Your_Account_Through_OTP";
+  static String get userIsAlreadyRegistered => "User_is_already_registered !";
+  static String get userIsNotRegistered => "User_is_not_registered!";
+  static String get verifyYourNumber => "Verify_Your_Number";
+  static String get accountVerified => "Account_Verified_Successfully!";
+  static String get accountActivated => "Account_Activated_Successfully!";
+  static String get otpisRequired => "OTP_is_Required.";
+  static String get invalidCredentials => "Invalid_Credentials!";
+  static String get userNotFound => "User_Not_Found!";
+  static String get invalidOtp => "Invalid_OTP!";
+  static String get resentOtpSuccessfully => "Resent_OTP_successfully!";
+  static String get otpRequestFailed => "OTP_Request_Failed";
+  static String get resetPassword => "Reset_Password";
+  static String get resetPasswordSuccessfully => "Reset_Password_Successfully!";
+  static String get newsReportedSuccessfully => "News_Reported_Successfully!";
+  static String get pleaseEnterProperDetails => "Please_enter_proper_details.";
+  static String get addmemberdatamessage => "Member_created_successfully";
+  static String get profildataadd => "User_profile_is_updated_successfully.";
+  static String get typeMessage => "Type_a_message...";
+  static String get title => "Title";
+  static String get enterTitle => "Enter_Title";
+  static String get description => "Description";
+  static String get enterDescription => "Enter_Description";
+  static String get submit => "Submit";
+  static String get yourRequestHasBeenSubmitted =>
+      "Your_request_for_help_and_support_has_been_submitted_successfully!";
+  static String get ooops => "Ooops!";
+  static String get noInternetConnectionFound => "No_Internet_Connection_Found";
+  static String get checkYourConnection => "Check_your_connection";
+  static String get tryAgain => "Try_Again";
+  static String get invalidMobileNumber => "Mobile_number_is_required";
+  static String get firstnameIsRequired => "First_name_is_required";
+  static String get lastnameIsRequired => "Last_name_is_required";
+  static String get passwordIsRequired => "Password_is_required";
+  static String get confirmPasswordMustBeSame =>
+      "Confirm_password_must_be_same";
+  static String get noNewsFound => "No_News_Found!";
+  static String get noEventsFound => "No_Events_Found!";
+  static String get noThreadFound => "No_Results_Found";
+  static String get loading => "loading...";
+  static String get membersnotfind => "No_Member_found";
+  static String get latestnews => "Latest_News";
+  static String get seeall => "See_All";
+  static String get latestevents => "Latest_Events";
+  static String get ads => "Ads";
+  static String get liveconcert => "Live_Concert";
+  static String get albertacanada => "Alberta_Canada";
+  static String get newstext =>
+      "House_GOP_uses_its_new_power_in_extraordinary....";
+  static String get membername => "Fox_Stone";
+  static String get messagename => "Robert_Roy";
+  static String get message => "I_am_good_thanks_for_asking";
+  static String get accountProfile => "Profile";
+  static String get accountPushNotification => "Push_Notification";
+  static String get accountMyMembers => "My_Members";
+  static String get accountPrivacyPolicy => "Privacy_Policy";
+  static String get accountTermsConditions => "Terms_Conditions";
+  static String get accountHelpSupport => "Help_Support";
+  static String get accountLogout => "Logout";
+  static String get areYouSureYouWantToLogout =>
+      "Are_you_sure_you_want_to_logout?";
+  static String get profile => "Profile";
+  static String get basicdetails => "Basic_Details";
+  static String get firstnametext => "First_Name";
+  static String get lastnametext => "Last_Name";
+  static String get phonenumberprofile => "Phone_number";
+  static String get myMembers => "My_Members";
+  static String get mymembersname => "Pankaj_Sharma";
+  static String get mymembersaddress => "Ahmedabad_Gujarat";
+  static String get addmemberstext => "Add_New_Member";
+  static String get mobilenumber => "Mobile_No";
+  static String get relationwithmainMember => "Relation_with_main_Member";
+  static String get birthdate => "Birthdate";
+  static String get education => "Education";
+  static String get maritalStatus => "Marital_Status";
+  static String get currentlyLivingat => "Currently_Living_at";
+  static String get abhaySharma => "Abhay_Sharma";
+  static String get relation => "Relation";
+  static String get mobileNo => "Mobile_No";
+  static String get currentlyLiving => "Currently_Living";
+  static String get noNotificationtexttitle => "No_Notification_Right_Now!";
+  static String get noNotificationtextsubtitle => "When_you_have_notification";
+  static String get noNotificationtextsubtitle2 => "you’ll_see_them_here";
+  static String get notificationtitele => "Notifications";
+  ////////
+  static String get accountSettings => "Account_Settings";
+  static String get enteryourFirstname => "Enter_your_First_name";
+  static String get enteryourlastname => "Enter_your_Last _name";
+  static String get enteryourmobileno => "Enter_your_mobile_no";
+  static String get mobilenumberisrequired => "Mobile_number_is_required.";
+  static String get enteryourrelation => "Enter_your_relation";
+  static String get selectyourbirthdate => "Select_your_birthdate";
+  static String get enteryoureducation => "Enter_your_education";
+  static String get married => "Married";
+  static String get unmarried => "Unmarried";
+  static String get pleaseselectamaritalstatus =>
+      "Please_select_a_marital_status";
+  static String get enteryourlocation => "Enter_your_location";
+  static String get addMember => "Add_Member";
+  static String get home => "Home";
+  static String get members => "Members";
+  static String get messag => "Message";
+  static String get somethingwentwrongpleaseagainlater =>
+      "Something_went_wrong_please_try_again_later.";
+  static String get search => "Search";
+  static String get latestEvents => "Latest_Events";
+  static String get upcomingEvents => "Upcoming_Events";
+  static String get sealoadingwaitformomentrch => "loading_wait_for_moment";
+  static String get hi => "Hi";
+  static String get userID => "User_ID";
+  static String get noMemberfoundwiththatname =>
+      "No_Member_found_with_that_name";
+  static String get save => "Save";
+  static String get delete => "Delete";
+  static String get iD => "ID";
+  static String get no => "No";
+  static String get yes => "Yes";
+  static String get picImageFrom => "Pic_Image_From";
+  static String get cAMERA => "CAMERA";
+  static String get gALLERY => "GALLERY";
+  static String get mobilenumberalreadyexists => "Mobile_number_already_exists";
+}
